@@ -1,4 +1,4 @@
-<img width="1001" height="545" alt="image" src="https://github.com/user-attachments/assets/e5ef3008-d885-4cb5-ab74-4b4a55dca1df" /># Macroeconomic Regime‑Switching Model
+# Macroeconomic Regime‑Switching Model
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
